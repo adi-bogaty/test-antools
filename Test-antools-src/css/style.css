@@ -32,7 +32,7 @@ nav {
 }
 #navbarNavDropdown .dropdown-item,
 #navbarNavDropdown .dropdown-item:hover {
-    color: #fff;
+    color: #fff !important;
 }
 .menu li, .menu li a:visited {
     font-family: 'Poppins';
